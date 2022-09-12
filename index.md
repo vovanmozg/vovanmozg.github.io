@@ -1,6 +1,6 @@
 
 # [Circles on grid](./html5drawing/grid/circlesGrid/circlesGrid.html)
-2022-09-12. Bitmask-drawing overlapping circles
+2022-09-12. Bitmask-drawing overlapping circles and [variation](./html5drawing/grid/circlesGrid/circlesGrid2.html)
 [![](/assets/images/20220912/circlesgrid.png)](./html5drawing/grid/circlesGrid/circlesGrid.html)
 
 # [Filling cells](./html5drawing/grid/threeOverlapColors/runThreeOverlapColors.html)
