@@ -1,3 +1,7 @@
+# [Spirograph](./html5drawing/spirograf.htm)
+2024-01-01. Drawing curves with circles
+[![](/assets/images/20240101/spirograph.png)](./html5drawing/spirograf.htm)
+
 # [Redrawed alphabet](./html5drawing/abc/abc.html)
 2023-04-14. Replace characters with new symbols
 [![](/assets/images/20230414/abc.png)](./html5drawing/abc/abc.html)
